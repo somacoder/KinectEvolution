@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\dropbox\active\kinectevolution\kinectevolution.xaml\obj\x64\release\intermediatexaml\kinect evolution.exe" HashGuid="4a585d04-c9b0-0b6b-a1e3-9f2c91e5469b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.data.winmd" HashGuid="bec3b354-5b74-1234-191f-25a435755c0a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.kinect.winmd" HashGuid="d7412096-a3c7-9108-a946-0ff0cc614d3f" />
+    <ReferenceAssembly PathName="d:\dropbox\active\kinectevolution\kinectevolution.xaml\x64\release\kinectevolution.xaml.controls\kinectevolution.xaml.controls.winmd" HashGuid="0874af10-b87f-943e-097c-1f2195690ddc" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

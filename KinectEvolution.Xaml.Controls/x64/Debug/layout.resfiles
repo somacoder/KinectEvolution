@@ -1,0 +1,16 @@
+KinectEvolution.Xaml.Controls\BlockManTexture.dds
+KinectEvolution.Xaml.Controls\BlockManPS.cso
+KinectEvolution.Xaml.Controls\BlockManVS.cso
+KinectEvolution.Xaml.Controls\DepthMeshGS.cso
+KinectEvolution.Xaml.Controls\DepthMeshPS.cso
+KinectEvolution.Xaml.Controls\DepthMeshVS.cso
+KinectEvolution.Xaml.Controls\DepthPointPS.cso
+KinectEvolution.Xaml.Controls\DepthPointVS.cso
+KinectEvolution.Xaml.Controls\PrimitivePS.cso
+KinectEvolution.Xaml.Controls\PrimitiveVS.cso
+KinectEvolution.Xaml.Controls\RampEffectGS.cso
+KinectEvolution.Xaml.Controls\RampEffectPS.cso
+KinectEvolution.Xaml.Controls\RampEffectVS.cso
+KinectEvolution.Xaml.Controls\RenderTextureGS.cso
+KinectEvolution.Xaml.Controls\RenderTexturePS.cso
+KinectEvolution.Xaml.Controls\RenderTextureVS.cso

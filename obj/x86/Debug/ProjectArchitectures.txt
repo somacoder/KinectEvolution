@@ -1,0 +1,2 @@
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj;x86
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\KinectEvolution-XAML.csproj;x86

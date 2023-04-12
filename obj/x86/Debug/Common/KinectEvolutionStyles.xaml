@@ -1,0 +1,55 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:KinectEvolution" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
+
+    <Style x:Key="MainLayoutDefault" TargetType="Grid">
+        <Setter Property="Background">
+            <Setter.Value>
+                <ImageBrush ImageSource="ms-appx:/background.png" Stretch="UniformToFill"/>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="ThumbsItemContainerStyle" TargetType="GridViewItem">
+        <Setter Property="FontFamily" Value="Segoe UI" />
+        <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+        <Setter Property="VerticalContentAlignment" Value="Stretch" />
+        <Setter Property="Width" Value="280" />
+        <Setter Property="Height" Value="250" />
+        <Setter Property="Margin" Value="15,0" />
+        <Setter Property="Background" Value="Transparent"/>
+    </Style>
+
+    <Style x:Key="ThumbnailTitle" TargetType="TextBlock">
+        <Setter Property="Width" Value="Auto" />
+        <Setter Property="HorizontalAlignment" Value="Center"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="TextAlignment" Value="Center"/>
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="FontSize" Value="20"/>
+    </Style>
+
+    <Style x:Key="ThumbnailDesc" TargetType="TextBlock">
+        <Setter Property="Foreground" Value="White" />
+        <Setter Property="FontSize" Value="18" />
+        <Setter Property="VerticalAlignment" Value="Center" />
+        <Setter Property="HorizontalAlignment" Value="Center" />
+    </Style>
+
+    <Style x:Key="ThumbnailBackground" TargetType="Rectangle">
+        <Setter Property="Width" Value="Auto" />
+        <Setter Property="Height" Value="Auto" />
+        <Setter Property="Fill" Value="Black" />
+    </Style>
+
+    <DataTemplate x:Key="ThumbsItemTemplate">
+        <local:ThumbnailView />
+    </DataTemplate>
+
+    <ItemsPanelTemplate x:Key="ThumbsItemsPanelTemplate">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" />
+    </ItemsPanelTemplate>
+
+</ResourceDictionary>
+

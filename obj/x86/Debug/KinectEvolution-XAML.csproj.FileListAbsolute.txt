@@ -1,0 +1,57 @@
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\App.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\Common\KinectEvolutionStyles.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\Common\StandardStyles.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\HelpSettingsFlyout.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\MainPage.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\ThumbnailView.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\Kinect Evolution.xr.xml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\Kinect Evolution.exe
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\Kinect Evolution.pdb
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\resources.pri
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\AppxManifest.xml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\KinectEvolution-XAML.build.appxrecipe
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\KinectEvolution.Xaml.Controls.winmd
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\KinectEvolution.Xaml.Controls.pdb
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\bin\x86\Debug\KinectEvolution.Xaml.Controls.pri
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\KinectEvolution-XAML.csprojResolveAssemblyReference.cache
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\App.g.i.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\App.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\KinectEvolutionStyles.g.i.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\KinectEvolutionStyles.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\StandardStyles.g.i.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\StandardStyles.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\HelpSettingsFlyout.g.i.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\HelpSettingsFlyout.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\MainPage.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\ThumbnailView.g.i.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\ThumbnailView.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\App.xaml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\KinectEvolutionStyles.xaml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\StandardStyles.xaml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\HelpSettingsFlyout.xaml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\MainPage.xaml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\ThumbnailView.xaml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\App.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\KinectEvolutionStyles.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Common\StandardStyles.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\HelpSettingsFlyout.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\MainPage.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\ThumbnailView.xbf
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Kinect Evolution.exe
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\Kinect Evolution.pdb
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\KinectEvolution-XAML.csproj.GenerateResource.Cache
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\priconfig.xml
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\layout.resfiles
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\resources.resfiles
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\pri.resfiles
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\qualifiers.txt
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\obj\x86\Debug\ProjectArchitectures.txt

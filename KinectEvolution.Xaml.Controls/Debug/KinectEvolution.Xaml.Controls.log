@@ -1,0 +1,40 @@
+﻿  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\BlockManPS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\BlockManVS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\DepthMeshGS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\DepthMeshPS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\DepthMeshVS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\DepthPointPS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\DepthPointVS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\PrimitivePS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\PrimitiveVS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\RampEffectGS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\RampEffectPS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\RampEffectVS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\RenderTextureGS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\RenderTexturePS.cso
+  compilation object save succeeded; see C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\RenderTextureVS.cso
+  pch.cpp
+  AudioPanel.cpp
+  Effect.cpp
+  Mesh.cpp
+  Panel.cpp
+  BlockManEffect.cpp
+  BlockManMesh.cpp
+  BlockManPanel.cpp
+  ColorPanel.cpp
+  DDSTextureLoader.cpp
+  DepthMapPanel.cpp
+  DepthMesh.cpp
+  DepthMeshEffect.cpp
+  DepthPointEffect.cpp
+  DirectXPanel.cpp
+  InfraredPanel.cpp
+  InfraredRenderer.cpp
+  PrimitiveEffect.cpp
+  PrimitiveMesh.cpp
+  RampEffect.cpp
+  RenderTextureEffect.cpp
+  SkeletonPanel.cpp
+  Texture.cpp
+     Creating library C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.lib and object C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.exp
+  KinectEvolution.Xaml.Controls.vcxproj -> C:\Users\molab\Desktop\KinectEvolution-XAML\KinectEvolution.Xaml\Debug\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.dll

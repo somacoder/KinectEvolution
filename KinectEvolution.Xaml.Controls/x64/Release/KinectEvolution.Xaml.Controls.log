@@ -1,0 +1,94 @@
+﻿Build started 4/12/2023 10:23:22 AM.
+     1>Project "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj" on node 2 (Rebuild target(s)).
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\BlockManPS.cso" BlockManPS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\BlockManPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\BlockManVS.cso" BlockManVS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\BlockManVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T gs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthMeshGS.cso" DepthMeshGS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthMeshGS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthMeshPS.cso" DepthMeshPS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthMeshPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthMeshVS.cso" DepthMeshVS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthMeshVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthPointPS.cso" DepthPointPS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthPointPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthPointVS.cso" DepthPointVS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\DepthPointVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\PrimitivePS.cso" PrimitivePS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\PrimitivePS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\PrimitiveVS.cso" PrimitiveVS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\PrimitiveVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T gs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RampEffectGS.cso" RampEffectGS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RampEffectGS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RampEffectPS.cso" RampEffectPS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RampEffectPS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RampEffectVS.cso" RampEffectVS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RampEffectVS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T gs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RenderTextureGS.cso" RenderTextureGS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RenderTextureGS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T ps_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RenderTexturePS.cso" RenderTexturePS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RenderTexturePS.cso
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\fxc.exe /nologo /E"main" /T vs_5_0 /Fo "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RenderTextureVS.cso" RenderTextureVS.hlsl 
+         compilation object save succeeded; see D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\RenderTextureVS.cso
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\ /I"Generated Files\\" /Ix64\Release\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /O2 /Oi /GL /D _WINRT_DLL /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"x64\Release\pch.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Data.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Kinect.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\ /I"Generated Files\\" /Ix64\Release\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /O2 /Oi /GL /D _WINRT_DLL /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"x64\Release\pch.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Data.winmd" /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\WindowsPreview.Kinect\2.0\References\CommonConfiguration\neutral\WindowsPreview.Kinect.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt /bigobj AudioPanel.cpp Effect.cpp Mesh.cpp Panel.cpp BlockManEffect.cpp BlockManMesh.cpp BlockManPanel.cpp ColorPanel.cpp DDSTextureLoader.cpp DepthMapPanel.cpp DepthMesh.cpp DepthMeshEffect.cpp DepthPointEffect.cpp DirectXPanel.cpp InfraredPanel.cpp InfraredRenderer.cpp PrimitiveEffect.cpp PrimitiveMesh.cpp RampEffect.cpp RenderTextureEffect.cpp SkeletonPanel.cpp Texture.cpp
+         AudioPanel.cpp
+         Effect.cpp
+         Mesh.cpp
+         Panel.cpp
+         BlockManEffect.cpp
+         BlockManMesh.cpp
+         BlockManPanel.cpp
+         ColorPanel.cpp
+         DDSTextureLoader.cpp
+         DepthMapPanel.cpp
+         DepthMesh.cpp
+         DepthMeshEffect.cpp
+         DepthPointEffect.cpp
+         DirectXPanel.cpp
+         InfraredPanel.cpp
+         InfraredRenderer.cpp
+         PrimitiveEffect.cpp
+         PrimitiveMesh.cpp
+         RampEffect.cpp
+         RenderTextureEffect.cpp
+         SkeletonPanel.cpp
+         Texture.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.dll" /NOLOGO runtimeobject.lib kernel32.lib /MANIFEST:NO /DEBUG /PDB:"D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /APPCONTAINER /WINMD /WINMDFILE:"D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X64 /DLL x64\Release\AudioPanel.obj
+         x64\Release\Effect.obj
+         x64\Release\Mesh.obj
+         x64\Release\Panel.obj
+         x64\Release\BlockManEffect.obj
+         x64\Release\BlockManMesh.obj
+         x64\Release\BlockManPanel.obj
+         x64\Release\ColorPanel.obj
+         x64\Release\DDSTextureLoader.obj
+         x64\Release\DepthMapPanel.obj
+         x64\Release\DepthMesh.obj
+         x64\Release\DepthMeshEffect.obj
+         x64\Release\DepthPointEffect.obj
+         x64\Release\DirectXPanel.obj
+         x64\Release\InfraredPanel.obj
+         x64\Release\InfraredRenderer.obj
+         x64\Release\pch.obj
+         x64\Release\PrimitiveEffect.obj
+         x64\Release\PrimitiveMesh.obj
+         x64\Release\RampEffect.obj
+         x64\Release\RenderTextureEffect.obj
+         x64\Release\SkeletonPanel.obj
+         x64\Release\Texture.obj
+            Creating library D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.lib and object D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.exp
+         Generating code
+         Finished generating code
+         KinectEvolution.Xaml.Controls.vcxproj -> D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.dll
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x64\MakePri.exe New -ProjectRoot D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\ -ConfigXml x64\Release\priconfig.xml -OutputFile D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\x64\Release\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.pri -IndexName KinectEvolution.Xaml.Controls -Verbose -Overwrite  
+     1>Done Building Project "D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.50

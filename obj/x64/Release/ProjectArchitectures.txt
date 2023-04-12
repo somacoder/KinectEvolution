@@ -1,0 +1,2 @@
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution.Xaml.Controls\KinectEvolution.Xaml.Controls.vcxproj;x64
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\KinectEvolution-XAML.csproj;x64

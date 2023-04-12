@@ -1,0 +1,57 @@
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\App.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\Common\KinectEvolutionStyles.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\Common\StandardStyles.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\HelpSettingsFlyout.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\MainPage.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\ThumbnailView.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\Kinect Evolution.xr.xml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\Kinect Evolution.exe
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\Kinect Evolution.pdb
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\resources.pri
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\AppxManifest.xml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\KinectEvolution-XAML.build.appxrecipe
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\KinectEvolution.Xaml.Controls.winmd
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\KinectEvolution.Xaml.Controls.pdb
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\bin\x64\Release\KinectEvolution.Xaml.Controls.pri
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\KinectEvolution-XAML.csprojResolveAssemblyReference.cache
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\App.g.i.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\App.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\KinectEvolutionStyles.g.i.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\KinectEvolutionStyles.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\StandardStyles.g.i.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\StandardStyles.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\HelpSettingsFlyout.g.i.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\HelpSettingsFlyout.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\MainPage.g.i.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\MainPage.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\ThumbnailView.g.i.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\ThumbnailView.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\XamlTypeInfo.g.cs
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\XamlSaveStateFile.xml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\App.xaml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\KinectEvolutionStyles.xaml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\StandardStyles.xaml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\HelpSettingsFlyout.xaml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\MainPage.xaml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\ThumbnailView.xaml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\App.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\KinectEvolutionStyles.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Common\StandardStyles.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\HelpSettingsFlyout.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\MainPage.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\ThumbnailView.xbf
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Kinect Evolution.exe
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\Kinect Evolution.pdb
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\KinectEvolution-XAML.csproj.GenerateResource.Cache
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\priconfig.xml
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\priconfig.xml.intermediate
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\layout.resfiles
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\layout.resfiles.intermediate
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\resources.resfiles
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\resources.resfiles.intermediate
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\pri.resfiles
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\pri.resfiles.intermediate
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\qualifiers.txt
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\qualifiers.txt.intermediate
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Dropbox\Active\KinectEvolution\KinectEvolution.Xaml\obj\x64\Release\ProjectArchitectures.txt
